@@ -1,1 +1,5 @@
-automated_resume_relevancechecksystem
+npm install
+npm run build
+npm run dev
+
+
